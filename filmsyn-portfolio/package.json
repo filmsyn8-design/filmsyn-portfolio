@@ -1,0 +1,17 @@
+{
+  "name": "filmsyn-portfolio",
+  "version": "1.0.0",
+  "description": "FILMSYN - Audiovisual Portfolio",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "latest"
+  }
+}
