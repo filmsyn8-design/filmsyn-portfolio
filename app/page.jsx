@@ -1,6 +1,6 @@
 import React from 'react';
 import { Mail, ExternalLink } from 'lucide-react';
-import './globals.css';
+import './globals.css'; 
 
 export const metadata = {
   title: 'FILMSYN - Audiovisual Director & Designer',
